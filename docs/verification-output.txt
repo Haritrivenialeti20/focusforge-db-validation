@@ -1,0 +1,5 @@
+valid sample data: accepted
+NOT NULL: rejected
+UNIQUE: rejected
+CHECK: rejected
+FOREIGN KEY: rejected
